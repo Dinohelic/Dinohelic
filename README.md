@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Dinohelic
-- 👀 I’m interested in Developing 
-- 🌱 I’m currently learning Basic Of Coding
-- 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me Via Mail dy579962@gmail.com
 
 <!---
