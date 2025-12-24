@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dinohelic
-- 📫 How to reach me Via Mail dy579962@gmail.com
+- 📫 How to reach me Via Mail dinohelic@hotmail.com
 
 <!---
 Dinohelic/Dinohelic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
